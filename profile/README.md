@@ -57,4 +57,17 @@ npm i @pteromanager/collection
 <a href="https://github.com/PteroManager/Builders" target="_blank">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PteroManager/Builders">
 </a>
+   
+# Other projects
+   
+## PteroManager Website
+   Our official all in one website that also includes our documentation!
+   
+> The website is not ready and some of its features may not work!
+   
+## PteroManager Bot
+   Our Discord bot with OCR support!
+   
+> Coming soon!
+   
 </div>
