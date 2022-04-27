@@ -6,9 +6,12 @@
 PteroManager is the easy to use, free and open source Pterodactyl API wrapper!
 
 <div align="center">
+   
 # Our packages
+   
 ## @PteroManager/Collection
    This is the package used to store a collection of objects.
+   
 ### Installation
 ```sh
 npm i @pteromanager/collection
@@ -22,3 +25,5 @@ npm i @pteromanager/collection
 <a href="https://github.com/PteroManager/Collection" target="_blank">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PteroManager/Collection">
 </a>
+
+</div>
