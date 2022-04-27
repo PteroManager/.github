@@ -9,6 +9,22 @@ PteroManager is the easy to use, free and open source Pterodactyl API wrapper!
    
 # Our packages
    
+## PteroManager
+   The official PteroManager package!
+   
+### Installation
+> This package is not available yet, it will be released really soon though!
+   
+<a href="https://npmjs.com/package/pteromanager" target="_blank">
+<img src="https://img.shields.io/npm/v/pteromanager.svg" alt=""/>
+</a>
+<a href="https://npmjs.com/package/pteromanager" target="_blank">
+<img src="https://img.shields.io/npm/dw/pteromanager.svg" alt=""/>
+</a>
+<a href="https://github.com/PteroManager/PteroManager" target="_blank">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PteroManager/PteroManager">
+</a>
+   
 ## @PteroManager/Collection
    This is the package used to store a collection of objects.
    
@@ -26,4 +42,19 @@ npm i @pteromanager/collection
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PteroManager/Collection">
 </a>
 
+## @PteroManager/Builders
+   This is the package used to simplify PteroManager's usage!
+   
+### Installation
+> This package is not available yet
+   
+<a href="https://npmjs.com/package/@pteromanager/builders" target="_blank">
+<img src="https://img.shields.io/npm/v/@pteromanager/builders.svg" alt=""/>
+</a>
+<a href="https://npmjs.com/package/@pteromanager/builders" target="_blank">
+<img src="https://img.shields.io/npm/dw/@pteromanager/builders.svg" alt=""/>
+</a>
+<a href="https://github.com/PteroManager/Builders" target="_blank">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/PteroManager/Builders">
+</a>
 </div>
