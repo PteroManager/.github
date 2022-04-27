@@ -1,5 +1,7 @@
 <div align="center">
+
 # PteroManager
+
 </div>
 PteroManager is the easy to use, free and open source Pterodactyl API wrapper!
 
