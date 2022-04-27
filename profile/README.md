@@ -1,7 +1,7 @@
 <div align="center">
 # PteroManager
-  PteroManager is the easy to use, free and open source Pterodactyl API wrapper!
 </div>
+PteroManager is the easy to use, free and open source Pterodactyl API wrapper!
 
 <div align="center">
 # Our packages
